@@ -7,9 +7,9 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"github.com/block-vision/sui-go-sdk/common/httpconn"
-	"github.com/block-vision/sui-go-sdk/models"
-	"github.com/block-vision/sui-go-sdk/utils"
+	"github.com/fluidity-money/sui-go-sdk/common/httpconn"
+	"github.com/fluidity-money/sui-go-sdk/models"
+	"github.com/fluidity-money/sui-go-sdk/utils"
 	"github.com/tidwall/gjson"
 )
 

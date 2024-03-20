@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/block-vision/sui-go-sdk/constant"
-	"github.com/block-vision/sui-go-sdk/sui"
+	"github.com/fluidity-money/sui-go-sdk/constant"
+	"github.com/fluidity-money/sui-go-sdk/sui"
 )
 
 func main() {

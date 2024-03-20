@@ -6,9 +6,9 @@ package sui
 import (
 	"context"
 	"fmt"
-	"github.com/block-vision/sui-go-sdk/constant"
-	"github.com/block-vision/sui-go-sdk/models"
-	"github.com/block-vision/sui-go-sdk/utils"
+	"github.com/fluidity-money/sui-go-sdk/constant"
+	"github.com/fluidity-money/sui-go-sdk/models"
+	"github.com/fluidity-money/sui-go-sdk/utils"
 	"testing"
 )
 
